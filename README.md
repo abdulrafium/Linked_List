@@ -1,4 +1,4 @@
-# Linked-List
+# Linked List
 
 This repository contains Java implementations of various types of linked lists, including singly linked lists, doubly linked lists, and circular linked lists. Each implementation provides methods to perform common operations on the respective linked list type.
 
