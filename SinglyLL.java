@@ -23,7 +23,7 @@ public class SinglyLL {
 		if(head==null)
 		{
 			head=newNode;
-			return;
+			return;kkkk
 		}
 		 newNode.next=head;
 		 head=newNode;
