@@ -3,7 +3,7 @@ public class SinglyLL {
 	class Node{
 		
 		int data;
-		Node next;
+		Node next;;
 		
 		Node(int data)
 		{
